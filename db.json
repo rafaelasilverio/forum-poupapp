@@ -1,0 +1,51 @@
+{
+  "usuarios": [
+    {
+      "id": "8800",
+      "nome": "Yan Carlo",
+      "renda": 797.98,
+      "orcamentoDiario": 4226.599333333334
+    },
+    {
+      "id": "54d2",
+      "nome": "ana",
+      "renda": "2222",
+      "orcamentoDiario": 74.06666666666666
+    },
+    {
+      "id": "5882",
+      "nome": "ana",
+      "renda": "2000",
+      "orcamentoDiario": 66.66666666666667
+    }
+  ],
+  "transacoes": [
+    {
+      "id": "9531",
+      "nome": "SSD",
+      "valor": 600,
+      "tipo": "despesa",
+      "categoria": "Despesa",
+      "data": "2025-09-12",
+      "userId": "8800"
+    },
+    {
+      "id": "e090",
+      "nome": "Salário",
+      "valor": 5000,
+      "tipo": "receita",
+      "categoria": "Salário",
+      "data": "2025-09-01",
+      "userId": "8800"
+    },
+    {
+      "id": "9bfc",
+      "nome": "compra",
+      "valor": 200,
+      "tipo": "despesa",
+      "categoria": "asdf",
+      "data": "2025-09-23",
+      "userId": "8800"
+    }
+  ]
+}
